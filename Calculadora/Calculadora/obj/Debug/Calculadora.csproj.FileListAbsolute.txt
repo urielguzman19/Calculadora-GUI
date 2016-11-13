@@ -1,0 +1,18 @@
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\urigz\documents\visual studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Urie Guzman\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
